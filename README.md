@@ -1,14 +1,9 @@
-[![Open Source badge](https://img.shields.io/badge/Open%20Source-❤-red.svg)](https://opensource.org/)
-[![GitHub](https://img.shields.io/github/license/ErickSimoes/Ultrasonic)](https://github.com/ErickSimoes/Ultrasonic/blob/master/LICENSE)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/ErickSimoes/Ultrasonic)](https://github.com/ErickSimoes/Ultrasonic/releases/latest)
-![Arduino Lint](https://github.com/ErickSimoes/Ultrasonic/workflows/Arduino%20Lint/badge.svg)
-
 Ultrasonic
 ===========
 
 _Minimalist library for ultrasound module to Arduino_
 
-### Compatible with **HC-SR04**, **Ping)))** and **Seeed SEN136B5B** (_from Seeed Studio_)
+**Compatible with [HC-SR04](https://smdx.ru/hc-sr04), Ping and Seeed SEN136B5B (_from Seeed Studio_)**
 
 Work with **ultrasonic modules** is fairly simple, but can be even more practical if you abstract the control of some features. This library aims to resource efficiency and to simplify access to data.
 
